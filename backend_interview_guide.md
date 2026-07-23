@@ -1,6 +1,11 @@
 # Jieumchat: Backend & RAG System Architecture Interview Guide
 
+![Jieumchat System Architecture Diagram](/home/ubuntu/.gemini/antigravity/brain/452e2ffd-bbe9-4e38-b624-da8e04e85767/system_architecture_diagram_1784811017856.png)
+
 This guide describes the backend design, pipeline mechanics, and engineering decisions of **Jieumchat** to help you explain the architecture to an interviewer.
+
+> [!TIP]
+> For rendering-ready UML source code files, check the [PlantUML Diagrams Guide](file:///home/ubuntu/Development/pr_backend/jieum-chat/docs/plantuml_architecture.md).
 
 ---
 
